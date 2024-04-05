@@ -5,4 +5,4 @@ Contagem de um estacionamento de carros - Sistema de Vagas
 
 -> Imports opencv-python, numby
 
-<img src="/assets/img/foto_template.png">
+<img src="/foto_template.png">
