@@ -5,4 +5,6 @@ Contagem de um estacionamento de carros - Sistema de Vagas
 
 -> Imports opencv-python, numby
 
+-> Exemplo 1 - Estacionamento 8 vagas
+
 <img src="/foto_template.png">
